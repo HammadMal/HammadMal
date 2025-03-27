@@ -21,7 +21,7 @@
   - **Databases**: MongoDB, Firebase, SQL Server
   - **Tools & Technologies**: Docker, Kubernetes, Git, AWS, Jenkins, Postman, OOP, DB Designer, Qt Designer
  
-- - 🚀 My goals for this year: 
+-  🚀 My goals for this year: 
   - Learn **Flutter** and incorporate it into my projects
   - Contribute to **open-source projects** on GitHub
   - Gain hands-on experience with **cloud architecture** and **microservices**
