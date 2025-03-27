@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hammad Malik</h1>
 <h3 align="center">A passionate Web and App Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadmal&label=Profile%20views&color=0e75b6&style=flat" alt="hammadmal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadmal" alt="hammadmal" /></a> </p>
 
 - 🔭 I’m currently working on **AI Powered Resume Checker for my Software Engineering Project**
 
@@ -48,4 +45,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadmal&show_icons=true&locale=en&layout=compact" alt="hammadmal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadmal&show_icons=true&locale=en" alt="hammadmal" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadmal&label=Profile%20views&color=0e75b6&style=flat" alt="hammadmal" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadmal" alt="hammadmal" /></a> </p>
 
