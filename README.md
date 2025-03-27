@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI Powered Resume Checker for my Software Engineering Project**
 
-🌱 I’m currently learning: React JS, Node JS , React Native , Advanced CI/CD pipeline setups with GitHub Actions, Kubernetes and Helm for container orchestration and deployment, Docker for containerization and cloud deployment strategies,  AWS
+- 🌱 I’m currently learning: React JS, Node JS , React Native , Advanced CI/CD pipeline setups with GitHub Actions, Kubernetes and Helm for container orchestration and deployment, Docker for containerization and cloud deployment strategies,  AWS
 
 - 👨‍💻 All of my projects are available at [github.com/HammadMal](github.com/HammadMal)
 
@@ -21,7 +21,7 @@
   - **Databases**: MongoDB, Firebase, SQL Server
   - **Tools & Technologies**: Docker, Kubernetes, Git, AWS, Jenkins, Postman, OOP, DB Designer, Qt Designer
  
-  - - 🚀 My goals for this year: 
+- - 🚀 My goals for this year: 
   - Learn **Flutter** and incorporate it into my projects
   - Contribute to **open-source projects** on GitHub
   - Gain hands-on experience with **cloud architecture** and **microservices**
