@@ -8,8 +8,8 @@
 
 I build web and mobile applications with a focus on production-ready architecture, automation, and solving real-world problems. 
 I am Currently working on:
-**SehatGuru**, a fitness application with an ML model for Pakistani cuisine classification.
-**LegalFloux**, a React based SaaS product for Legal Firms in USA, streamlining their workflows and tasks.
+- **SehatGuru**, a fitness application with an ML model for Pakistani cuisine classification.
+- **LegalFloux**, a React based SaaS product for Legal Firms in USA, streamlining their workflows and tasks.
 
 ---
 
