@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://hammadmalik.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hammadmalik40a@gmail.com)
 
-*Building production-ready web & mobile applications — from idea to deployment.*
+* Building Production Ready Full Stack Applications*
 
 </div>
 
@@ -78,20 +78,21 @@
 
 ---
 
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadmal&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadmal&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=hammadmal&hide_border=true&mode=weekly" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadmal&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 🎓 Certifications
 
-[![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![Node.js](https://img.shields.io/badge/Node.js_Complete_Guide-339933?style=flat&logo=nodedotjs&logoColor=white)](https://udemy.com)
-[![Docker](https://img.shields.io/badge/Intermediate_Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://datacamp.com)
+[![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/a75aca72-d0b3-484e-822e-2adfce630a02)
+[![Node.js](https://img.shields.io/badge/Node.js_Complete_Guide-339933?style=flat&logo=nodedotjs&logoColor=white)]([https://udemy.com](https://www.udemy.com/certificate/UC-27ed53a2-d9ed-4f38-94b4-153d95f2a4f9/))
+[![Docker](https://img.shields.io/badge/Intermediate_Docker-2496ED?style=flat&logo=docker&logoColor=white)]([https://datacamp.com](https://www.datacamp.com/statement-of-accomplishment/course/5f2f1c5c4279909ba2ec3f1d3b678f68a4afa6f1?raw=1))
 
 ---
 
