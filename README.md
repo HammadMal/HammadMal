@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://hammadmalik.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hammadmalik40a@gmail.com)
 
-* Building Production Ready Full Stack Applications*
+*Building Production Ready Full Stack Applications*
 
 </div>
 
